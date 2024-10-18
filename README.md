@@ -24,6 +24,13 @@ The app outline will have a minimal design which includes the home screen, scree
 Version 0.1:
 - This update added the initial main functionality of the app which is the ability to add a to-do list to the screen with a list of the required tasks. The initial user interface was designed to be easy to use.
 - Future updates will include:
-    - Backend database to save data when app fully closes.
-    - UI Improvements
-    - Continuing development on features such as the alarm.
+  - Backend database to save data when app fully closes.
+  - UI Improvements
+  - Continuing development on features such as the alarm.
+
+Version 0.2:
+- This update fixed the UI by adding the ability to delete tasks from the menu.
+- Back End Storage: This update also added a back-end database using hive which allows for the persistence storage of data across launches of the app completing the prime functionality.
+- Future updates will include:
+  - A few bug fixes for bugs that have been identified.
+  - Continuing development of features such as the alarm.
